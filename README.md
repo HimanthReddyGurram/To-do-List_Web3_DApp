@@ -1,6 +1,18 @@
-# web3TodoList
+# To-do List (Web 3.0)
 
-This a dedecentralized to-do list web3 application where users can create some lists, edit and delete them.
+This a decentralized to-do list web3 application where users can create some lists, edit and delete them.
+This project uses motoko as a backend and interface it with our react front end. 
+
+(This website has a backend so the data doesnot get lost when refreshing websites or servers.)
+
+## Technologies
+* React.js
+* Web 3.0
+* Blockchain
+  - Motoko
+* Node.js
+  - Javascript
+
 
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
 
@@ -15,7 +27,16 @@ To learn more before you start working with dkeeper, see the following documenta
 If you want to start working on your project right away, you might want to try the following commands:
 
 ```bash
-cd web3TodoList/
+# Clone this repository
+git clone https://github.com/HimanthReddyGurram/web3TodoList.git
+
+# Go into the repository
+$ cd web3TodoList.git
+
+# Install dependencies
+npm install
+
+#for help(optional)
 dfx help
 dfx config --help
 ```
@@ -28,7 +49,8 @@ If you want to test your project locally, you can use the following commands:
 # Starts the replica, running in the background
 dfx start --background
 
-# Deploys your canisters to the replica and generates your candid interface
+# Open another terminal
+#Deploys your canisters to the replica and generates your candid interface
 dfx deploy
 ```
 

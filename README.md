@@ -28,10 +28,10 @@ If you want to start working on your project right away, you might want to try t
 
 ```bash
 # Clone this repository
-git clone https://github.com/HimanthReddyGurram/web3TodoList.git
+git clone https://github.com/HimanthReddyGurram/To-do-List_Web3_DApp.git
 
 # Go into the repository
-$ cd web3TodoList.git
+$ cd To-do-List_Web3_DApp.git
 
 # Install dependencies
 npm install

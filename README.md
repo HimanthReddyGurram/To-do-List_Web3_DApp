@@ -1,4 +1,4 @@
-# To-do List (Web 3.0)
+# To-do List (Blockchain)
 
 This a decentralized to-do list web3 application where users can create some lists, edit and delete them.
 This project uses motoko as a backend and interface it with our react front end. 
